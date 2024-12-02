@@ -53,15 +53,15 @@ body {
   }
   
   .hero h2 {
-    font-size: 1.5rem;
-    margin-top: 0.5rem;
+    font-size: 2rem;
+    margin-top: 1rem;
   }
   
   .button {
     display: inline-block;
     margin-top: 1.5rem;
     padding: 0.8rem 1.5rem;
-    background: #00d4ff;
+    background: #84fa0f ;
     color: white;
     border-radius: 50px;
     font-size: 1rem;
@@ -69,7 +69,7 @@ body {
   }
   
   .button:hover {
-    background: #1fceff;
+    background: #84fa0f ;
     transform: scale(1.05);
   }
   
